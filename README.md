@@ -12,9 +12,9 @@ __As the data is read from Amazon S3 storage, the credentials file is kept abstr
 The dataset is about the events occurred on an e-commerce website by different users. There are mainly three types of events (View, Cart, Purchase). There are other features on the events such as time, commodity etc. The data of the span of two months (Oct and Nov) is of 15 GB. In this project we have covered a single month. The source of the dataset is [here](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store). 
 
 # Business Question/Problem Statement
-Predicting the presence of matter (Drug/ Alcohol) in the person's body involved in the crash is the problem statement. This project can be a potential alternative to confirm the presence of the results of drug test takes time or not possible to conduct. According to the 4th Amendment, the police need a warrant or to develop probable cause that the person is intoxicated, the person involved in the crash can deny taking a blood/breath test. This is the reason why we will find very few records on drugs and alcohol. Based on the historical data, we can develop the instinct and we can eliminate the time delay to confirm the presence of the matter. We will be tuning the Logistic Regression and Random Forest model based on the accuracy metrics.
+We are Data People at DigiTrance. DigiTrance is an E-commerce platform focused more on electronic devices. The company wants to check patterns in terms of quantity, brands and common combinations of products purchased together. With this analysis, they aim to classify target customers and organize product recommendations which will help them to increase revenue.
 
-Developing the Data Pipelines which reads the data from Amazon S3 to Databricks platform. Creating an environment for different personas where these personas will get access to the data as per their requirements.  
+As the Data People at DigiTrance, we have to develop the data pipeline in which the data about the events will be ingested and from the raw data, the insights will be provided to the business side of the company. Development of the Data Pipelines which reads the data from Amazon S3 to Databricks platform. Creating an environment for different personas where these personas will get access to the data as per their requirements.  
 
 
 
