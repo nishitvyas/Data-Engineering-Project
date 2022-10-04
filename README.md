@@ -4,7 +4,7 @@ The following project is a Data Engineering project on Big Data and creating the
 _Notebooks as per the different personas:_
 - [Business Analyst Notebook Link](https://github.com/nvyas1-git/Data-Engineering-Project/blob/main/BusinessAnalystNotebook.ipynb)
 - [Data Engineer(Testing) Notebook Link](https://github.com/nvyas1-git/Data-Engineering-Project/blob/main/DataEnggtest_notebookS3.ipynb)
-- [Data Scientist Notebook Link](https://github.com/nvyas1-git/Data-Engineering-Project/blob/main/DataScientistNotebook.ipynb)
+- [Data Scientist Notebook Link](https://github.com/nvyas1-git/Data-Engineering-Project/blob/main/DataScienctist_notebook.ipynb)
 
 __As the data is read from Amazon S3 storage, the credentials file is kept abstracted. For reproducing the same project, required changes are necessary while mounting S3 bucket.__
 
